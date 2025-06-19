@@ -1,4 +1,4 @@
-# 📦 Install Cisco ISE Image Download (ISO)
+# 📦 Cisco ISE Image Download (ISO)
 
 > **📝 Disclaimer**  
 > This guide is created for **educational and testing purposes only**.  
