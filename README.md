@@ -184,10 +184,10 @@ Let me know if you'd like this in `.md` file format or with code blocks for each
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="coff.ee/SABBIRIMON" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a
-[Buy Me A Coffee](coff.ee/SABBIRIMON)
-<br>
-QR
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sabbirimon) 
+
+
 <br>
 <p align="center">
   <a href="https://ibb.co/svJn3dDT">
